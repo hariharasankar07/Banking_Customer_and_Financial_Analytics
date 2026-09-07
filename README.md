@@ -1,2 +1,21 @@
-# Banking_Customer_Analysis
-Data analysis of banking customer, transaction, loan, and card data using Python, SQL, and Power BI to uncover customer behavior and financial insights.
+# Banking Customer Analytics
+
+## Project Overview
+Analyzed customer, transaction, loan, and card data to understand customer behavior and financial patterns.
+
+## Tools Used
+Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Power BI
+
+## Key Tasks
+- Data Cleaning
+- Exploratory Data Analysis
+- Feature Engineering
+- Correlation Analysis
+- Transaction Analysis
+- Loan Analysis
+- Card Analysis
+- Data Visualization
+- Power BI Dashboard
+
+## Project Insights
+Key customer and financial patterns were identified through data analysis and visualization.
