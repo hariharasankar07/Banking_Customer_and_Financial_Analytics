@@ -1,4 +1,4 @@
-# Banking Customer Analytics
+# Banking Customer Analysis
 
 ## Project Overview
 Analyzed customer, transaction, loan, and card data to understand customer behavior and financial patterns.
